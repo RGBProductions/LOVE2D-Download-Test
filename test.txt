@@ -1,0 +1,1 @@
+This file should be successfully downloaded by LOVE2D. If it is not, something went wrong!
